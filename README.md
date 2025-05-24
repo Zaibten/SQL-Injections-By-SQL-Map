@@ -1,20 +1,21 @@
-📘 SQL Map: Automatic SQL Injection & Database Takeover Tool
+# 📘 **SQL Map: Automatic SQL Injection & Database Takeover Tool**
 
-SQL map is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. 🛡️
+**SQL Map** is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. 🛡️
 
-✨ Features:
-- 🔍 Powerful detection engine
-- 🧠 Many niche features for the ultimate penetration tester
-- 🧰 Broad range of switches including:
-  - 🧬 Database fingerprinting
-  - 📥 Data fetching from the database
-  - 📂 Accessing the underlying file system
-  - 🖥️ Executing commands on the operating system via out-of-band connections
+## ✨ **Features:**
+- 🔍 **Powerful detection engine**
+- 🧠 **Many niche features for the ultimate penetration tester**
+- 🧰 **Broad range of switches including:**
+  - 🧬 **Database fingerprinting**
+  - 📥 **Data fetching from the database**
+  - 📂 **Accessing the underlying file system**
+  - 🖥️ **Executing commands on the operating system via out-of-band connections**
 
-💻 Installation:
-Clone the Git repository:
-    git clone --depth 1 https://github.com/Zaibten/SQL-Injections-By-SQL-Map.git sqlmap-dev
+## 💻 **Installation:**
+**Clone the Git repository:**
+git clone --depth 1 https://github.com/Zaibten/SQL-Injections-By-SQL-Map.git sqlmap-dev
 
-sqlmap works out of the box with Python version 2.6, 2.7 and 3.x on any platform. 🐍
+**SQL Map works out of the box with Python version 2.6, 2.7 and 3.x on any platform.** 🐍
 
-🔗 For more details, visit the official GitHub repository: https://github.com/Zaibten/SQL-Injections-By-SQL-Map
+## 🔗 **Official GitHub Repository:**
+**https://github.com/Zaibten/SQL-Injections-By-SQL-Map**
